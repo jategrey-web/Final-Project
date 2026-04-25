@@ -1,4 +1,3 @@
-# Final-Project snake game 
 # Snake Game Deluxe
 
 ## Project Overview
@@ -77,8 +76,8 @@ then the player loses one life.
 
 If the player still has lives remaining:
 - the snake respawns
-- the snake keeps its length from the previous life
 - the score remains the same
+- the snake keeps its length from the previous life
 
 If all three lives are lost:
 - the game ends
